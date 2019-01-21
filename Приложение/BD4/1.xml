@@ -1,0 +1,18 @@
+<BDCafe>
+  <Cafe owner="Иванов Олег Иванович" title="Bulvar" address="Тверской бульвар, 10с1" phone="485448" rating="5">
+    <Supplier title="Дом кофе" product="зерна" Frequencyofdeliveries="20" Volumeofdeliveries="15" cafeAddress="Тверской бульвар, 10с1" />
+    <Supplier title="Монин" product="топпинг" Frequencyofdeliveries="3" Volumeofdeliveries="45" cafeAddress="Тверской бульвар, 10с1" />
+    <Supplier title="Деликос" product="мясная " Frequencyofdeliveries="3" Volumeofdeliveries="20" cafeAddress="Тверской бульвар, 10с1" />
+  </Cafe>
+  <Cafe owner="Хариманов Максим Викторович" title="Bulvar" address="Пожарский переулок дом 15" phone="374437" rating="4">
+    <Supplier title="Простоквашино" product="молочная" Frequencyofdeliveries="13" Volumeofdeliveries="11" cafeAddress="Пожарский переулок дом 15" />
+    <Supplier title="Айдиго" product="специи" Frequencyofdeliveries="3" Volumeofdeliveries="50" cafeAddress="Пожарский переулок дом 15" />
+    <Supplier title="Курочка ряба" product="яйца" Frequencyofdeliveries="3" Volumeofdeliveries="15" cafeAddress="Пожарский переулок дом 15" />
+    <Supplier title="Император Минь" product="чай" Frequencyofdeliveries="3" Volumeofdeliveries="33" cafeAddress="Пожарский переулок дом 15" />
+  </Cafe>
+  <Cafe owner="Нижегольская Елена Дмитриевна" title="Bulvar" address="ул. Добровольческая 12" phone="594459" rating="5">
+    <Supplier title="Продпроставка" product="крупы" Frequencyofdeliveries="10" Volumeofdeliveries="20" cafeAddress="ул. Добровольческая 12" />
+    <Supplier title="Родник" product="вода" Frequencyofdeliveries="9" Volumeofdeliveries="30" cafeAddress="ул. Добровольческая 12" />
+    <Supplier title="Веган" product="овощи" Frequencyofdeliveries="5" Volumeofdeliveries="25" cafeAddress="ул. Добровольческая 12" />
+  </Cafe>
+</BDCafe>

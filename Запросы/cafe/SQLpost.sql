@@ -1,0 +1,8 @@
+CREATE TABLE post (
+  idpost INT NOT NULL PRIMARY KEY,
+  title VARCHAR(255) NOT NULL ,
+  salary INT NOT NULL,
+  serve_idserve INT NOT NULL REFERENCES serve (idserve)
+    ON DELETE SET NULL
+    ON UPDATE CASCADE
+  )

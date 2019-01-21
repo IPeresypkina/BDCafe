@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema1"
+    targetNamespace="http://tempuri.org/XMLSchema1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="BDCafe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="Cafe">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="Supplier">
+                <xs:complexType>
+                  <xs:attribute name="title" type="xs:string" use="required" />
+                  <xs:attribute name="product" type="xs:string" use="required"  />
+                  <xs:attribute name="Frequencyofdeliveries" type="xs:int" use="optional" />
+                  <xs:attribute name="Volumeofdeliveries" type="xs:int" use="optional" />
+                  <xs:attribute name="cafeAddress" type="xs:int" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="owner" type="xs:string" use="required" />
+            <xs:attribute name="title" type="xs:string" use="required" />
+            <xs:attribute name="address" type="xs:string" use="required" />
+            <xs:attribute name="phone" type="xs:int" use="optional" />
+            <xs:attribute name="rating" type="xs:int" use="optional" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

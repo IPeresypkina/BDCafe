@@ -1,0 +1,12 @@
+D:\студия\3курс1сем\Курсовая работа — копия\CafeLibrary\bin\Debug\CafeLibrary.dll
+D:\студия\3курс1сем\Курсовая работа — копия\CafeLibrary\bin\Debug\CafeLibrary.pdb
+D:\студия\3курс1сем\Курсовая работа — копия\CafeLibrary\obj\Debug\CafeLibrary.csprojAssemblyReference.cache
+D:\студия\3курс1сем\Курсовая работа — копия\CafeLibrary\obj\Debug\CafeLibrary.csproj.CoreCompileInputs.cache
+D:\студия\3курс1сем\Курсовая работа — копия\CafeLibrary\obj\Debug\CafeLibrary.dll
+D:\студия\3курс1сем\Курсовая работа — копия\CafeLibrary\obj\Debug\CafeLibrary.pdb
+D:\студия\3курс1сем\Курсовая работа\CafeLibrary\bin\Debug\CafeLibrary.dll
+D:\студия\3курс1сем\Курсовая работа\CafeLibrary\bin\Debug\CafeLibrary.pdb
+D:\студия\3курс1сем\Курсовая работа\CafeLibrary\obj\Debug\CafeLibrary.csprojAssemblyReference.cache
+D:\студия\3курс1сем\Курсовая работа\CafeLibrary\obj\Debug\CafeLibrary.csproj.CoreCompileInputs.cache
+D:\студия\3курс1сем\Курсовая работа\CafeLibrary\obj\Debug\CafeLibrary.dll
+D:\студия\3курс1сем\Курсовая работа\CafeLibrary\obj\Debug\CafeLibrary.pdb

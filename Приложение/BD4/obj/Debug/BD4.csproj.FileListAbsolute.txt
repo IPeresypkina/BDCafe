@@ -1,0 +1,62 @@
+D:\студия\3курс1сем\BD4\BD4\bin\Debug\BD4.exe.config
+D:\студия\3курс1сем\BD4\BD4\bin\Debug\BD4.exe
+D:\студия\3курс1сем\BD4\BD4\bin\Debug\BD4.pdb
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.Form1.resources
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.Properties.Resources.resources
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.csproj.GenerateResource.Cache
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.csproj.CoreCompileInputs.cache
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.exe
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.pdb
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.FormIngredient.resources
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.FormPost.resources
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.FormChangeComposition.resources
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.csprojAssemblyReference.cache
+D:\студия\3курс1сем\BD4\BD4\obj\Debug\BD4.CountServeInCafe.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\bin\Debug\BD4.exe.config
+D:\студия\3курс1сем\BD4 — копия\BD4\bin\Debug\BD4.exe
+D:\студия\3курс1сем\BD4 — копия\BD4\bin\Debug\BD4.pdb
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.csprojAssemblyReference.cache
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.CountServeInCafe.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.Form1.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.FormChangeComposition.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.FormIngredient.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.FormPost.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.Properties.Resources.resources
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.csproj.GenerateResource.cache
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.csproj.CoreCompileInputs.cache
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.exe
+D:\студия\3курс1сем\BD4 — копия\BD4\obj\Debug\BD4.pdb
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\bin\Debug\BD4.exe.config
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\bin\Debug\BD4.exe
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\bin\Debug\BD4.pdb
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.csprojAssemblyReference.cache
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.CountServeInCafe.resources
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.Form1.resources
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.FormChangeComposition.resources
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.FormIngredient.resources
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.FormPost.resources
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.Properties.Resources.resources
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.csproj.GenerateResource.cache
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.csproj.CoreCompileInputs.cache
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.exe
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.pdb
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\bin\Debug\CafeLibrary.dll
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\bin\Debug\CafeLibrary.pdb
+D:\студия\3курс1сем\Курсовая работа — копия\BD4\obj\Debug\BD4.csproj.CopyComplete
+D:\студия\3курс1сем\Курсовая работа\BD4\bin\Debug\BD4.exe.config
+D:\студия\3курс1сем\Курсовая работа\BD4\bin\Debug\BD4.exe
+D:\студия\3курс1сем\Курсовая работа\BD4\bin\Debug\BD4.pdb
+D:\студия\3курс1сем\Курсовая работа\BD4\bin\Debug\CafeLibrary.dll
+D:\студия\3курс1сем\Курсовая работа\BD4\bin\Debug\CafeLibrary.pdb
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.csprojAssemblyReference.cache
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.CountServeInCafe.resources
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.Form1.resources
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.FormChangeComposition.resources
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.FormIngredient.resources
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.FormPost.resources
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.Properties.Resources.resources
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.csproj.GenerateResource.cache
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.csproj.CoreCompileInputs.cache
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.csproj.CopyComplete
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.exe
+D:\студия\3курс1сем\Курсовая работа\BD4\obj\Debug\BD4.pdb
